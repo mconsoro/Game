@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Miguel C/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/SpaceCraft02.png</SourceFile>
-  <SourceTime>2017-08-16T14:19:44.7174432-04:00</SourceTime>
-  <DestFile>C:/Users/Miguel C/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/bin/Android/SpaceCraft02.xnb</DestFile>
-  <DestTime>2017-08-16T17:25:03.0231595-04:00</DestTime>
+  <SourceFile>C:/Users/mconsoro/Documents/Visual Studio 2017/Projects/Game/Game1/Content/SpaceCraft02.png</SourceFile>
+  <SourceTime>2017-08-17T09:03:25.3093433-04:00</SourceTime>
+  <DestFile>C:/Users/mconsoro/Documents/Visual Studio 2017/Projects/Game/Game1/Content/bin/Android/SpaceCraft02.xnb</DestFile>
+  <DestTime>2017-08-17T10:14:26.1565552-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T11:05:36-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

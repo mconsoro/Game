@@ -16,3 +16,46 @@ c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\up
 c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\Game1.csprojResolveAssemblyReference.cache
 c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\bin\Android\AnyCPU\Debug\Game1.dll.mdb
 c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\Game1.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\Game1.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\Game1.pdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\Game1.Game1.apk
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\Game1.Game1-Signed.apk
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\MonoGame.Framework.xml
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\Game1.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\Game1.pdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\bin\Game1.Game1.apk
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\res\values\strings.xml
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\res\drawable\icon.png
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\res\drawable\splash.png
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\res\values\styles.xml
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\R.cs.flag
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\uploadflags.txt
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\Game1.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\Java.Interop.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\Mono.Android.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\mscorlib.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\OpenTK-1.0.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\System.Core.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\System.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\System.Net.Http.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\System.Xml.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\System.Xml.Linq.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\Game1.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\OpenTK-1.0.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\Game1.dll.mdb
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\Game1.dll.mdb

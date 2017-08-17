@@ -2,13 +2,13 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Users\Miguel C\Documents\Visual Studio 2017\Projects\Game1\Game1\obj\Release\__library_projects__\MonoGame.Framework\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Release\__library_projects__\MonoGame.Framework\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Release\__library_projects__\MonoGame.Framework\library_project_imports\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Users\Miguel C\Documents\Visual Studio 2017\Projects\Game1\Game1\obj\Release\__library_projects__\MonoGame.Framework.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Release\__library_projects__\MonoGame.Framework.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

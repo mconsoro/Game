@@ -1,25 +1,24 @@
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\Game1.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\Java.Interop.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\Mono.Android.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\mscorlib.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\OpenTK-1.0.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Core.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Xml.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Xml.Linq.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\MonoGame.Framework.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Runtime.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Threading.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Collections.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Collections.Concurrent.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Reflection.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Linq.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Runtime.Extensions.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Reflection.Extensions.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Net.Http.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.Runtime.Serialization.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\System.ServiceModel.Internals.dll
-c:\users\miguel c\documents\visual studio 2017\Projects\Game1\Game1\obj\Debug\android\assets\Mono.Security.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\Game1.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\Java.Interop.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\Mono.Android.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\mscorlib.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\OpenTK-1.0.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Core.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Xml.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Xml.Linq.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\MonoGame.Framework.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Threading.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Runtime.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Collections.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Collections.Concurrent.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Reflection.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Linq.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Runtime.Extensions.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Reflection.Extensions.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Net.Http.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.Runtime.Serialization.dll
+C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.ServiceModel.Internals.dll
