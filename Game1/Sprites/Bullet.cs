@@ -28,6 +28,8 @@ namespace Game1.Sprites
             _timer += (float)gameTime.ElapsedGameTime.TotalSeconds;
             if (_timer > LifeSpam)
                 IsRemoved = true;
+
+            Position += Direction * LiearVelocity;
         }
     }
 }
