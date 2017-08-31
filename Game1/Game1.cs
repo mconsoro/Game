@@ -1,8 +1,10 @@
 using Game1.Sprites;
+//using Java.Util;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Input.Touch;
+using System;
 using System.Collections.Generic;
 
 namespace Game1
@@ -15,15 +17,26 @@ namespace Game1
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         private List<Sprite> _sprites;
+        private Texture2D _moonTexture;
+        private SpriteFont _font;
+        private float _timer;
         public bool IsRemoved;
+        public static Random Random;
+        public static int ScreenWidth;
+        public static int ScreenHeight;
+
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
 
+            Random = new Random();
+
+     
+
             graphics.IsFullScreen = true;
-            graphics.PreferredBackBufferWidth = 800;
-            graphics.PreferredBackBufferHeight = 480;
+            ScreenWidth = graphics.PreferredBackBufferWidth = 800;
+            ScreenHeight = graphics.PreferredBackBufferHeight = 480;
             graphics.SupportedOrientations = DisplayOrientation.LandscapeLeft | DisplayOrientation.LandscapeRight;
         }
 
@@ -51,16 +64,21 @@ namespace Game1
             //_texture = Content.Load<Texture2D>("SpaceCraft01");
             //_position = new Vector2(200,200);
             // TODO: use this.Content to load your game content here
+
+
+
             var shipTexture = Content.Load<Texture2D>("SpaceCraft01");
             _sprites = new List<Sprite>()
             {
                 new Ship(shipTexture)
                 {
-                    Position = new Vector2(100,100),
+                    Position = new Vector2(325,1000),
                     Bullet = new Bullet(Content.Load<Texture2D>("ball"))
                 }
             };
 
+            _font = Content.Load<SpriteFont>("Font");
+            _moonTexture = Content.Load<Texture2D>("Moon");
         }
 
         /// <summary>
@@ -84,12 +102,30 @@ namespace Game1
 
             // TODO: Add your update logic here
 
+            _timer += (float)gameTime.ElapsedGameTime.TotalSeconds;
+
             foreach (var sprite in _sprites.ToArray())
                 sprite.Update(gameTime, _sprites);
 
-                 PostUpdate();
+            PostUpdate();
+            SpawnMoon();
 
             base.Update(gameTime);
+        }
+
+        private void SpawnMoon()
+        {
+            if (_timer > 5)
+            {
+                _timer = 0;
+                var XPos = Random.Next(0, ScreenWidth - _moonTexture.Width);
+                var YPos = Random.Next(0, ScreenHeight - _moonTexture.Width);
+                _sprites.Add(new Sprite(_moonTexture)
+                {
+                    Position = new Vector2(XPos, YPos)
+                });
+            }
+
         }
 
         protected void PostUpdate()
@@ -114,26 +150,20 @@ namespace Game1
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
-            //if (currentTouchState.Count > 0)
-            //{
-            //    for (int i = 0; i < currentTouchState.Count; i++)
-            //    {                    
-            //        _position = currentTouchState[i].Position;                      
-            //    }
-            //}  
-
-            //// TODO: Add your drawing code here
-            //spriteBatch.Begin();
-            //spriteBatch.Draw(_texture, _position, Color.White);
-            //spriteBatch.End();
-            ////////////////////////////////////////////////////////       
-
-
             spriteBatch.Begin();
-            //foreach (var sprite in _sprites)            
-            //sprite.Draw(spriteBatch);
+
             foreach (var sprite in _sprites)
+            {
                 sprite.Draw(spriteBatch);
+            }
+            var fontY = 10;
+            var i = 0;
+            foreach (var sprite in _sprites)
+            {
+                if (sprite is Ship)
+
+                    spriteBatch.DrawString(_font, "Puntuación: " + ((Ship)sprite).Score, new Vector2(10, fontY += 20), Color.Red);
+            }
 
             spriteBatch.End();
             base.Draw(gameTime);

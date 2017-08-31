@@ -29,7 +29,7 @@ namespace Game1.Sprites
             if (_timer > LifeSpam)
                 IsRemoved = true;
 
-            Position += Direction * LiearVelocity;
+            Position += Direction * LienarVelocity;
         }
     }
 }
