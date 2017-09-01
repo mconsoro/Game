@@ -32,7 +32,6 @@ C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\res
 C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\R.cs.flag
 C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\uploadflags.txt
 C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\Game1.dll.mdb
-C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\Game1.csprojResolveAssemblyReference.cache
 C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\Java.Interop.dll.mdb
 C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\Mono.Android.dll.mdb
 C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\mscorlib.dll.mdb
@@ -47,7 +46,6 @@ C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\A
 C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\bin\Android\AnyCPU\Debug\System.Xml.Linq.dll.mdb
 C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\Game1.dll.mdb
 C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\Java.Interop.dll.mdb
-C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\Mono.Android.dll.mdb
 C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\mscorlib.dll.mdb
 C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\OpenTK-1.0.dll.mdb
 C:\Users\mconsoro\Documents\Visual Studio 2017\Projects\Game\Game1\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb

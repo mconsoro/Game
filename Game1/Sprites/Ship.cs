@@ -50,34 +50,44 @@ namespace Game1.Sprites
                     //{
                     Position = CurrentTouchState[i].Position;
                     //}
-                    AddBullet(sprites);
+
 
                     tmpPosition = CurrentTouchState[i].Position;
                     //break;
                 }
-               
-                foreach (var sprite in sprites)
+
+                AddBullet(sprites);
+            }
+
+            foreach (var sprite in sprites)
+            {
+                if (sprite.Texture.Name == "ball")
                 {
-                    if (sprite.Texture.Name == "ball")
+                    tmpTxBall = sprite;
+                }
+
+                foreach (var sprite2 in sprites)
+                {
+                    if (sprite2.Texture.Name == "Moon")
                     {
-                        tmpTxBall = sprite;
+                        tmpTxMoon = sprite2;
                     }
-                    if (sprite.Texture.Name == "Moon")
+                    if (tmpTxBall != null && tmpTxMoon != null)
                     {
-                        tmpTxMoon = sprite;
-                    }
-                    if(tmpTxBall != null)
-                    {
-                        if (sprite.Texture.Name != "SpaceCraft01" && sprite.Texture.Name != "ball")
+                        if (tmpTxMoon.Rectangle.Intersects(tmpTxBall.Rectangle))
                         {
-                            if (sprite.Rectangle.Intersects(tmpTxBall.Rectangle))
-                            {
-                                                         
-                                Score++;
-                                sprite.IsRemoved = true;
-                            }
+                            Score++;
+                            tmpTxMoon.IsRemoved = true;
+
+                            tmpTxMoon = null;
+                            tmpTxBall = null;
+                            break;
                         }
                     }
+                }
+                if (tmpTxBall == null && tmpTxMoon == null)
+                {
+                    break;
                 }
             }
 

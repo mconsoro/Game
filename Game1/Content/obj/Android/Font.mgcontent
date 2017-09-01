@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SourceFile>C:/Users/mconsoro/Documents/Visual Studio 2017/Projects/Game/Game1/Content/Font.spritefont</SourceFile>
-  <SourceTime>2017-08-22T10:10:53.9606695-04:00</SourceTime>
+  <SourceTime>2017-09-01T16:18:12.611557-04:00</SourceTime>
   <DestFile>C:/Users/mconsoro/Documents/Visual Studio 2017/Projects/Game/Game1/Content/bin/Android/Font.xnb</DestFile>
-  <DestTime>2017-08-22T10:16:17.3761348-04:00</DestTime>
+  <DestTime>2017-09-01T16:18:44.120234-04:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2017-03-01T11:05:36-04:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>
